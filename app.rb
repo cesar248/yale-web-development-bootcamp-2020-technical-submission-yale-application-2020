@@ -8,7 +8,7 @@ age = 18
 favorite_food = "pizza"
 height_in_inches = 70
 
-height_message = 
+height_message > AVERAGE_HEIGHT_IN_INCHES ? "You are taller than average" 
 
 ## Do not modify below this line!
 
