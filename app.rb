@@ -3,7 +3,12 @@ AVERAGE_HEIGHT_IN_INCHES = 67
 
 # Your Code Here!
 
+name = "Cesar"
+age = 18
+favorite_food = "pizza"
+height_in_inches = 70
 
+height_message = 
 
 ## Do not modify below this line!
 
